@@ -11,3 +11,4 @@ source = "abfss://tokyo-olympic-data@tokyoolympicdata.dfs.core.windows.net", # c
 mount_point = "/mnt/tokyoolymic",
 extra_configs = configs)
   
+##Access Control (IAM) should be given at Storage account level
